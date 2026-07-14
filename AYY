@@ -1,4 +1,11 @@
-{
-  "text": "سلام",
-  "aks": "لینک عکس"
-}
+[
+  {
+    "text": "سلام",
+    "aks": "https://example.com/image.jpg"
+  },
+  {
+    "text": "متن دوم",
+    "aks": "https://example.com/image2.jpg"
+  }
+]
+
